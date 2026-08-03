@@ -14,14 +14,14 @@ I'm a B.Sc. Artificial Intelligence & Machine Learning undergraduate passionate 
 
 - ## 📂 Projects
 
-### 📊 Data Analysis Dashboard
+-📊 Data Analysis Dashboard
 - Built interactive dashboards using Power BI.
 
-- ### 🤖 Machine Learning Projects
-##- Evaluated model performance using Scikit-learn.
+- 🤖 Machine Learning Projects
+- Evaluated model performance using Scikit-learn.
   
-- ### 🌐 Web Development
-- ##Built responsive web pages using HTML, CSS
+-🌐 Web Development
+-Built responsive web pages using HTML, CSS
 
 - ## 📜 Certifications
 - Microsoft AI Skills Passport, Salesforce Agentforce Specialist, UiPath RPA Certifications,MongoDB Certification ,EF SET English Certificate
