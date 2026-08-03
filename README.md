@@ -27,7 +27,7 @@ I'm a B.Sc. Artificial Intelligence & Machine Learning undergraduate passionate 
 - ### 🤖 Machine Learning Projects
 - Developed classification and regression models.g.
 - Evaluated model performance using Scikit-learn.
-
+  
 - ### 🌐 Web Development
 - Built responsive web pages using HTML, CSS, and JavaScript.
 - Designed user-friendly interfaces.
