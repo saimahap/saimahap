@@ -10,34 +10,21 @@ I'm a B.Sc. Artificial Intelligence & Machine Learning undergraduate passionate 
 🎯 Aspiring Data Analyst | AI & ML Enthusiast
 
 ## 🚀 Skills
-##- Python
-##- SQL
-##- Power BI
-##- Microsoft Excel
-##- HTML
-##- CSS
-##- Machine Learning
+- Python,SQL,Power BI,Microsoft Excel,HTML,CSS, Machine Learning
 
 - ## 📂 Projects
 
 ### 📊 Data Analysis Dashboard
-##- Built interactive dashboards using Power BI.
-##- Created insightful visualizations for decision-making.
+- Built interactive dashboards using Power BI.
 
 - ### 🤖 Machine Learning Projects
-##- Developed classification and regression models.g.
 ##- Evaluated model performance using Scikit-learn.
   
 - ### 🌐 Web Development
-- ##Built responsive web pages using HTML, CSS, and JavaScript.
-- ##Designed user-friendly interfaces.
+- ##Built responsive web pages using HTML, CSS
 
 - ## 📜 Certifications
-##- Microsoft AI Skills Passport
-##- Salesforce Agentforce Specialist
-##- UiPath RPA Certifications
-##- MongoDB Certification
-##- EF SET English Certificate
+- Microsoft AI Skills Passport, Salesforce Agentforce Specialist, UiPath RPA Certifications,MongoDB Certification ,EF SET English Certificate
 
 - ## 💡 Fun Fact
 
