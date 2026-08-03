@@ -17,7 +17,7 @@ I'm a B.Sc. Artificial Intelligence & Machine Learning undergraduate passionate 
 -📊 Data Analysis Dashboard
 - Built interactive dashboards using Power BI.
 
-- 🤖 Machine Learning Projects
+-🤖Machine Learning Projects
 - Evaluated model performance using Scikit-learn.
   
 -🌐 Web Development
